@@ -1,7 +1,8 @@
 ### Olá, eu sou o Maurício 👋
 
-- 🔭 Hoje trabalho como Analista de Qualidade de Software
-- 🌱 Estou estudando automação de testes com Ruby e tambem estou estudando desenvolvimento com flutter
+-  Sou formado em Analise e Desenvolvimento de Sistemas pela UNIP
+-  Hoje trabalho como Analista de Qualidade de Software
+-  Estou estudando automação de testes com Ruby e tambem estou estudando desenvolvimento com flutter
 
 <div align="center">
   <a href="https://github.com/mauricio9spfc">
